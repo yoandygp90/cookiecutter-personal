@@ -1,7 +1,8 @@
 name: cookiecutter-personal
 channels:
+  - anaconda
   - conda-forge
   - defaults
 dependencies:
   - cookiecutter=1.7.3
-prefix: /home/yoa/anaconda3/envs/cookiecutter-personal
+
