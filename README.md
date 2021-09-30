@@ -19,7 +19,7 @@ _In the directory where you want to save your generated project:_
 ```
 cookiecutter https://github.com/yoandygp90/cookiecutter-personal --checkout branch_name
 ```
-### Directories structure and resulting files:
+### Directories structure and resulting files 📖
 ```
 {{ cookiecutter.project_slug }}
     ├── data
